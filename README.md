@@ -8,12 +8,13 @@ Grape 0.11.0
 ## clone this repository
 ```sh
 git clone https://github.com/pocari/grape_sample.git
+cd grape_sample
 ```
 
 ##initialize app
 
 ```sh
-bundle install
+bundle install --path vendor
 ```
 
 ##run app
