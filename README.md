@@ -1,9 +1,9 @@
 #Rails(with Grape) Web API sample
 
 ## Tested Environment
-Ruby 2.2.2
-Bundler 1.10.3
-Grape 0.11.0
+- Ruby 2.2.2
+- Bundler 1.10.3
+- Grape 0.11.0
 
 ## clone this repository
 ```sh
